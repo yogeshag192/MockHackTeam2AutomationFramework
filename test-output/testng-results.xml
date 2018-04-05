@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2018-04-05T13:30:31Z" finished-at="2018-04-05T13:30:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2018-04-05T13:30:31Z" finished-at="2018-04-05T13:30:31Z">
+      <class name="com.HackathonUITests.TestClass">
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:com.HackathonUITests.TestClass@77ec78b9]" name="launchURL" is-config="true" duration-ms="9421" started-at="2018-04-05T13:30:22Z" finished-at="2018-04-05T13:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.HackathonUITests.TestClass@77ec78b9]" name="Test1" duration-ms="7" started-at="2018-04-05T13:30:31Z" finished-at="2018-04-05T13:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.HackathonUITests.TestClass@77ec78b9]" name="Test2" duration-ms="2" started-at="2018-04-05T13:30:31Z" finished-at="2018-04-05T13:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.HackathonUITests.TestClass@77ec78b9]" name="TearDown" is-config="true" duration-ms="2241" started-at="2018-04-05T13:30:32Z" finished-at="2018-04-05T13:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.HackathonUITests.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

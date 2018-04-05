@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="HackathonUITests Suite(failed)">
+    <classes>
+      <class name="com.HackathonUITests.TestClass">
+        <methods>
+          <include name="Test2"/>
+          <include name="Test1"/>
+          <include name="TearDown"/>
+          <include name="launchURL"/>
+        </methods>
+      </class> <!-- com.HackathonUITests.TestClass -->
+    </classes>
+  </test> <!-- HackathonUITests Suite(failed) -->
+</suite> <!-- Failed suite [Suite] -->
